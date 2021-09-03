@@ -7,7 +7,6 @@
         "klarna/module-kp-graph-ql": "*",
         "magento/module-authorizenet-graph-ql": "*",
         "magento/module-braintree-graph-ql": "*",
-        "magento/module-catalog-graph-ql": "*",
         "magento/module-catalog-cms-graph-ql": "*",
         "magento/module-catalog-inventory-graph-ql": "*",
         "magento/module-catalog-permissions-graph-ql": "*",
